@@ -8,6 +8,7 @@ Project created on 08/07/2023
 
 ### Description
 This project consists of a program of data analysis of shared bicycle systems in three main cities: Chicago, New York and Washington. The program allows users to explore statistics about bike share usage in these cities, such as average trip times, most popular stations, and more.
+Este proyecto consiste en un programa de análisis de datos de sistemas de bicicletas compartidas en tres ciudades principales: Chicago, Nueva York y Washington. El programa permite a los usuarios explorar estadísticas sobre el uso de bicicletas compartidas en estas ciudades, como tiempos promedio de viaje, estaciones más populares y más.
 
 ### Files used
 - bikeshare.py (program source code)
