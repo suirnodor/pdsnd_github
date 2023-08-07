@@ -1,3 +1,6 @@
+# BikeShare Analysis
+# Este programa permite a los usuarios explorar y analizar datos de bicicletas compartidas en diferentes ciudades.
+# Proporciona estadísticas y visualización de información relevante.
 import time
 import pandas as pd
 import numpy as np
